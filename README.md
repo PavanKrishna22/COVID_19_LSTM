@@ -1,5 +1,4 @@
-# COVID_19_LSTM live @ https://covid19lstm-ackndt7jf9hw4ycuf34ts9.streamlit.app/
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+@ https://covid19lstm-ackndt7jf9hw4ycuf34ts9.streamlit.app/
 # DATA ANALYSIS
 
 ![WhatsApp Image 2025-10-03 at 13 53 54_9afbe5ec](https://github.com/user-attachments/assets/7bf00014-3db4-4fd8-826b-5ba792262e9d)
